@@ -1,0 +1,4 @@
+def repeated()
+string = "TCS is the largest IT service company in India, 
+headquartered in Mumbai, and also the largest employee base."
+print("occurance of the word in the string")
